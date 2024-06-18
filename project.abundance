@@ -6,7 +6,29 @@
     "uniqueID": 1718742502185,
     "ioValues": [],
     "topLevel": true,
-    "allAtoms": [],
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.98,
+            "y": 0.5,
+            "uniqueID": 1718742511389,
+            "ioValues": []
+        },
+        {
+            "atomType": "CutLayout",
+            "name": "Cut Layout",
+            "x": 0.4395833333333333,
+            "y": 0.6912442396313364,
+            "uniqueID": 1718742517013,
+            "ioValues": [
+                {
+                    "name": "Material Thickness",
+                    "ioValue": 19
+                }
+            ]
+        }
+    ],
     "allConnectors": [],
     "unitsIndex": "MM",
     "fileTypeVersion": 1,
