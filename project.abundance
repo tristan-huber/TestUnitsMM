@@ -8,14 +8,6 @@
     "topLevel": true,
     "allAtoms": [
         {
-            "atomType": "Output",
-            "name": "Output",
-            "x": 0.98,
-            "y": 0.5,
-            "uniqueID": 1718742511389,
-            "ioValues": []
-        },
-        {
             "atomType": "CutLayout",
             "name": "Cut Layout",
             "x": 0.4395833333333333,
@@ -27,6 +19,14 @@
                     "ioValue": 19
                 }
             ]
+        },
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.98,
+            "y": 0.5,
+            "uniqueID": 1718742511389,
+            "ioValues": []
         }
     ],
     "allConnectors": [],
